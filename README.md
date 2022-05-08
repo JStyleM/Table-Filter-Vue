@@ -1,24 +1,7 @@
-# chat-app
+# Filter and Sort Table with Vue
 
-## Project setup
+## Demo Project
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+http://example.com
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
